@@ -1,6 +1,3 @@
 <html> 
 <head> git world </head>
-<body> 
-<p> Hello Everyone </p>
-</body>
 </html>
